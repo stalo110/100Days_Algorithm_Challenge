@@ -3,6 +3,8 @@
  * @param {number} target
  * @return {number[]}
  */
+
+// This is the solution for sum
 var twoSum = function(nums, target) {
     let result = [];
 
