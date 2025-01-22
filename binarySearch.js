@@ -27,6 +27,8 @@
 // All the integers in nums are unique.
 // nums is sorted in ascending order.
 
+
+
 /**
  * @param {number[]} nums
  * @param {number} target
